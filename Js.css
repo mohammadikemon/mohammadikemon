@@ -1,0 +1,23 @@
+.menuShowBtn {
+  display: block !important;
+}
+.menuRemoveBtn {
+  display: none !important;
+}
+.menuGo {
+  left: -100% !important;
+}
+.menuCome {
+  left: -0% !important;
+  transition-delay: 0.12s !important;
+}
+
+.menuItemColorAdd {
+  color: crimson !important;
+  border-bottom: 2px solid crimson;
+}
+
+.menuItemColorRemove {
+  color: #fff !important;
+  border: none !important;
+}
